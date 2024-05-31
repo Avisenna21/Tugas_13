@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/hafizadityarozzaqy/Konf-Evol_Week13</url>
+      <url>https://maven.pkg.github.com/Avisenna21/Tugas_13</url>
     </repository>
   </distributionManagement>
   
